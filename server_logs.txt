@@ -1,0 +1,8 @@
+> server@1.0.0 dev
+> node --watch server.js
+
+[dotenv@17.2.3] injecting env (3) from .env
+Server running on port 5000
+MongoDB connected
+[INFO] User Register: Test User (2025-01-11T10:00:00.000Z)
+[INFO] User Login: Test User (2025-01-11T10:01:00.000Z)
