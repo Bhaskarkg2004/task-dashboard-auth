@@ -71,3 +71,6 @@ const Profile = () => {
 };
 
 export default Profile;
+
+
+//have to try with diffrent approach next time
